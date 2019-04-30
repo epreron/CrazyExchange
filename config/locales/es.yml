@@ -1,0 +1,13 @@
+---
+es:
+  views:
+    exchanges:
+      _exchange_box:
+        Converter: convertir
+        Moeda_local: Moneda local
+        Moeda_pretendida: Moneda deseada
+        Quantidade: Cantidad
+        Simule_sua_conversao: Simule la sua conversion
+      index:
+        sub1: ¡Convierte fácilmente tus Monedas
+        sub2: Para cualquier moneda en el mundo!
